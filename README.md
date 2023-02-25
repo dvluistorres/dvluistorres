@@ -1,7 +1,7 @@
 # 👋 Hi!
 
 <div align="justify">
-    I'm a Full Stack Development student named Luis Arturo, and I enjoy using JavaScript tools. I'm currently concentrating all of my mental energy on learning everything I can about web development. I also enjoy learning about new technology that I may use to address problems in the real world.
+    I'm a Full Stack Development student who enjoy using JavaScript tools. I'm currently concentrating all of my mental energy on learning everything I can about web development. I also enjoy learning about new technology that I may use to address problems in the real world.
 </div>
 
 <br/><a href="in/luistorresj"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
