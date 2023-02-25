@@ -1,11 +1,20 @@
 # 👋 Hi!
 
 <div align="justify">
-    I'm a Full Stack Development student named Luis Arturo, and I adore using JavaScript tools. I'm currently concentrating all of my mental energy on learning everything I can about web development. I also enjoy learning about new technology that I may use to address problems in the real world.
+    I'm a Full Stack Development student named Luis Arturo, and I enjoy using JavaScript tools. I'm currently concentrating all of my mental energy on learning everything I can about web development. I also enjoy learning about new technology that I may use to address problems in the real world.
 </div>
 
 <br/><a href="in/luistorresj"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="mailto:devluistorres@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+
+# 👷 What can my previous formation in civil engineer offer?
+
+<ul align="justify">
+  <li>Attention to detail</li>
+  <li>Project management skills</li>
+  <li>Problem-solving skills</li>
+  <li>Teamwork and collaboration</li>
+</ul>
 
 # 🔧 Technologies & Tools
 
