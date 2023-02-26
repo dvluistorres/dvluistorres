@@ -81,16 +81,16 @@
 
 <div display=flex justify-content=space-evenly gap=50px;>
     <div flex=none text-align=center width=200px padding=5px display=flex flex-direction=column justify-content=flex-end>
-        <img object-fit=fill width=190px height=190px flex=auto src="images/Etch-a-Sketch.png" alt="Etch-A-Sketch">
+        <img object-fit=cover width=190px height=190px flex=auto src="images/Etch-a-Sketch.png" alt="Etch-A-Sketch">
         <h4>Etch-a-Sketch</h4>
     </div>
     <div flex=none text-align=center width=200px padding=5px display=flex flex-direction=column justify-content=flex-end>
-        <img object-fit=fill width=190px height=190px flex=auto src="images/Pagina-restaurante.png" alt="Pagina restaurante">
+        <img object-fit=cover width=190px height=190px flex=auto src="images/Pagina-restaurante.png" alt="Pagina restaurante">
         <h4>Restaurant page/h4>
     </div>
     <div flex=none text-align=center width=200px padding=5px display=flex flex-direction=column justify-content=flex-end>
-        <img class="img-plant" src="images/hdvcols.png"  alt="Plantilla">
-        <h4>Column Tracing</h4>
+        <img object-fit=cover width=190px height=190px flex=auto src="images/Pagina-supervisiones.png" alt="Pagina supervisiones">
+        <h4>Civil engineering demo page</h4>
     </div>
     <div flex=none text-align=center width=200px padding=5px display=flex flex-direction=column justify-content=flex-end>
         <img class="img-plant" src="images/controlplanos.jpg"  alt="Plantilla">
