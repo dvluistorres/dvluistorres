@@ -82,62 +82,77 @@
 <table>
   <tr>
     <td align="center" height="108" width="108">
-      <a href="https://github.com/dvluistorres/Etch-A-Sketch">
+      <a href="https://dvluistorres.github.io/Etch-A-Sketch/">
         <img
           src="images/Etch-a-Sketch.png"
           width="48"
           height="48"
-          alt="HTML"
+          alt="Etch-a-sketch"
           object-fit= contain
         />
       </a>
       <br /><strong>Etch-a-Sketch</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img
-        src="https://www.svgrepo.com/show/452185/css-3.svg"
-        width="48"
-        height="48"
-        alt="CSS3"
-      />
-      <br /><strong>CSS</strong>
+      <a href="https://dvluistorres.github.io/Pagina-supervisiones/">
+        <img
+          src="images/Pagina-supervisiones.png"
+          width="48"
+          height="48"
+          alt="Pagina supervisiones"
+          object-fit= contain
+        />
+      </a>
+      <br /><strong>Civil engineering demo project</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img
-        src="https://www.svgrepo.com/show/452045/js.svg"
-        width="48"
-        height="48"
-        alt="JavaScript"
-      />
-      <br /><strong>JS</strong>
+      <a href="https://dvluistorres.github.io/restaurant-page/">
+        <img
+          src="images/Pagina-restaurante.png"
+          width="48"
+          height="48"
+          alt="Restaurant page"
+          object-fit= contain
+        />
+      </a>
+      <br /><strong>Restaurant page</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-        width="48"
-        height="48"
-        alt="React"
-      />
-      <br /><strong>React</strong>
+      <a href="https://dvluistorres.github.io/to-do-list/">
+        <img
+          src="images/to-do-list.png"
+          width="48"
+          height="48"
+          alt="To do list"
+          object-fit= contain
+        />
+      </a>
+      <br /><strong>To do list</strong>
+    </td>
+        <td align="center" height="108" width="108">
+      <a href="https://dvluistorres.github.io/weather-app/">
+        <img
+          src="images/Weather-app.png"
+          width="48"
+          height="48"
+          alt="Weather app"
+          object-fit= contain
+        />
+      </a>
+      <br /><strong>Weather app</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img
-        src="https://www.svgrepo.com/show/354552/webpack.svg"
-        width="48"
-        height="48"
-        alt="Webpack"
-      />
-      <br /><strong>Webpack</strong>
+      <a href="https://dvluistorres.github.io/tic-tac-toe/">
+        <img
+          src="images/tic-tac-toe.png"
+          width="48"
+          height="48"
+          alt="Tic-tac-toe"
+          object-fit= contain
+        />
+      </a>
+      <br /><strong>Tic-tac-toe</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://www.svgrepo.com/show/503359/github.svg"
-        width="48"
-        height="48"
-        alt="Github"
-      />
-      <br /><strong>Github</strong>
-    </td>    
   </tr>
 </table>
 
