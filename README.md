@@ -77,7 +77,7 @@
   </tr>
 </table>
 
-# 🌟 Favorite projects
+# 🌟 Favorite vanilla javascript projects
 
 <table>
   <tr>
