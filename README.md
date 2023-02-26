@@ -81,12 +81,12 @@
 
 <div display=flex justify-content=space-evenly gap=50px;>
     <div flex=none text-align=center width=200px padding=5px display=flex flex-direction=column justify-content=flex-end>
-        <img object-fit=contain width=190px height=190px flex=auto src="images/Etch-a-Sketch.png" alt="Etch-A-Sketch">
+        <img object-fit=fill width=190px height=190px flex=auto src="images/Etch-a-Sketch.png" alt="Etch-A-Sketch">
         <h4>Etch-a-Sketch</h4>
     </div>
     <div flex=none text-align=center width=200px padding=5px display=flex flex-direction=column justify-content=flex-end>
-        <img class="img-plant" src="images/hdvexc.png"  alt="Plantilla">
-        <h4>Excavation tracing</h4>
+        <img object-fit=fill width=190px height=190px flex=auto src="images/Pagina-restaurante.png" alt="Pagina restaurante">
+        <h4>Restaurant page/h4>
     </div>
     <div flex=none text-align=center width=200px padding=5px display=flex flex-direction=column justify-content=flex-end>
         <img class="img-plant" src="images/hdvcols.png"  alt="Plantilla">
