@@ -81,7 +81,7 @@
 
 <div display=flex justify-content=space-evenly gap=50px;>
     <div flex=none text-align=center width=200px padding=5px display=flex flex-direction=column justify-content=flex-end>
-        <img object-fit=contain max-width=190px flex=auto src="./images/Etch-a-Sketch" alt="Etch-A-Sketch">
+        <img object-fit=contain max-width=190px flex=auto src="images/Etch-a-Sketch.png" alt="Etch-A-Sketch">
         <h4>Etch-a-Sketch</h4>
     </div>
     <div flex=none text-align=center width=200px padding=5px display=flex flex-direction=column justify-content=flex-end>
