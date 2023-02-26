@@ -103,7 +103,7 @@
           object-fit= contain
         />
       </a>
-      <br /><strong>Civil engineering demo project</strong>
+      <br /><strong>Demo Civil engineering</strong>
     </td>
     <td align="center" height="108" width="108">
       <a href="https://dvluistorres.github.io/restaurant-page/">
