@@ -73,7 +73,16 @@
         alt="Github"
       />
       <br /><strong>Github</strong>
-    </td>    
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://www.svgrepo.com/show/394408/sass.svg"
+        width="48"
+        height="48"
+        alt="Sass"
+      />
+      <br /><strong>Sass</strong>
+    </td>
   </tr>
 </table>
 
