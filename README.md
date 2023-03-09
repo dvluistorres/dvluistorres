@@ -165,6 +165,25 @@
   </tr>
 </table>
 
+# ⚛️ Favorite react projects
+
+<table>
+  <tr>
+    <td align="center" height="108" width="108">
+      <a href="https://dvluistorres.github.io/cv-project/">
+        <img
+          src="images/my-cv.png"
+          width="48"
+          height="48"
+          alt="My curriculum"
+          object-fit= contain
+        />
+      </a>
+      <br /><strong>CV project</strong>
+    </td>
+  </tr>
+</table>
+
 
 
 
