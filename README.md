@@ -184,7 +184,7 @@
     <td align="center" height="108" width="108">
       <a href="https://dvluistorres.github.io/gpt-3/">
         <img
-          src="images/gpt-3.png"
+          src="images/ai.png"
           width="48"
           height="48"
           alt="gpt-3"
