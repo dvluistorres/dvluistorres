@@ -181,6 +181,18 @@
       </a>
       <br /><strong>CV project</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <a href="https://dvluistorres.github.io/gpt-3/">
+        <img
+          src="images/gpt-3.png"
+          width="48"
+          height="48"
+          alt="gpt-3"
+          object-fit= contain
+        />
+      </a>
+      <br /><strong>Responsive react page</strong>
+    </td>
   </tr>
 </table>
 
