@@ -193,6 +193,19 @@
       </a>
       <br /><strong>Responsive react page</strong>
     </td>
+    </td>
+    <td align="center" height="108" width="108">
+      <a href="https://dvluistorres.github.io/gericht-restaurant/">
+        <img
+          src="images/gericht-restaurant.png"
+          width="48"
+          height="48"
+          alt="gericht-restaurant"
+          object-fit= contain
+        />
+      </a>
+      <br /><strong>Responsive restaurant page</strong>
+    </td>
   </tr>
 </table>
 
