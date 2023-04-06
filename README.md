@@ -4,7 +4,7 @@
     I'm a Full Stack Development student who enjoys using JavaScript tools. I'm currently concentrating all of my mental energy on learning everything I can about web development. I also enjoy learning about new technology that I may use to address problems in the real world.
 </div>
 
-<br/><a href="www.linkedin.com/in/luistorresj"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<br/><a href="https://www.linkedin.com/in/luistorresj"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="mailto:dvluistorres@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 
 # 👷 What can my previous formation in civil engineer offer?
